@@ -10,7 +10,7 @@ import org.scribe.model.*;
  * @see <a href="http://platform.fatsecret.com/api/>Fat Secret API</a>
  *
  */
-public class FatSecret extends DefaultApi10a {
+public class FatSecretApi extends DefaultApi10a {
 
 	  private static final String AUTHORIZE_URL = "http://fatsecret.com/oauth/authorize?token=%s";
 
